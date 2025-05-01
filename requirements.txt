@@ -1,4 +1,5 @@
-
+langchain
+langchain-openai
 altair==5.5.0
 attrs==25.3.0
 beautifulsoup4==4.13.4
